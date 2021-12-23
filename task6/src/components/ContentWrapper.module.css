@@ -1,0 +1,8 @@
+.content_wrapper {
+  padding: 50px 10px;
+  background-color: rgb(140, 160, 153);
+  display: flex;
+  flex: 1 0 auto;
+  justify-content: center;
+  align-items: flex-start;
+}
